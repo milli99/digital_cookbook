@@ -146,11 +146,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605271913916</updated>
-      <workItem from="1605271915065" duration="254000" />
+      <workItem from="1605271915065" duration="13872000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605298824894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605298824894" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1605276636381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605276636381" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1605276636380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605276636380" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1605276636379">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605276636379" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1605276636380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605276636380" />
   </component>
 </project>
